@@ -1,5 +1,5 @@
 #include <stdio.h>
-//計算兩整數間所有整數的總和
+//計算兩整數間所有整數的總和https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6931
 int main(){
     int num1, num2;
     scanf("%d %d", &num1, &num2);
